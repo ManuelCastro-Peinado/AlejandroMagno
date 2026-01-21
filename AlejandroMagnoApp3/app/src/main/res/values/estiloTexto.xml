@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="estiloTexto">
+        <item name="android:textSize">20sp</item>
+        / Ignorar la petición de actualizar la API
+        <item name= "android:justificationMode" tools:ignore="NewApi">inter_word</item>
+    </style>
+</resources>

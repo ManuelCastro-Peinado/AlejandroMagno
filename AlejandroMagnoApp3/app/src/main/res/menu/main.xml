@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_alta"
+        android:orderInCategory="100"
+        android:title="@string/action_alta"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_baja"
+        android:orderInCategory="100"
+        android:title="@string/action_baja"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_modificación"
+        android:orderInCategory="100"
+        android:title="@string/action_modificación"
+        app:showAsAction="never" />
+</menu>

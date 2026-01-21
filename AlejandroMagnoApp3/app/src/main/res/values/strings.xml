@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AlejandroMagnoApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Alejandro Magno</string>
+    <string name="nav_header_subtitle">Manuel Castro Peinado</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_alta">Alta</string>
+    <string name="action_baja">Baja</string>
+    <string name="action_modificación">Modificación</string>
+
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Origenes</string>
+    <string name="menu_slideshow">Pais</string>
+    <string name="menu_conquistas">Conquistas</string>
+    <string name="menu_legado">Legado</string>
+    <string name="text_slideshow">Macedonia fue un antiguo reino situado al norte de Grecia. Era un país fuerte y bien organizado, con un ejército muy poderoso.Durante el reinado de Alejandro Magno, Macedonia se convirtió en el centro de un gran imperio que se extendió por Asia, África y Europa.Gracias a sus conquistas, Macedonia pasó a ser uno de los países más importantes del mundo antiguo.</string>
+    <string name="text_legado">Alejandro Magno dejó un gran legado en la historia. Gracias a sus conquistas, la cultura griega se extendió por muchos países y se mezcló con otras culturas, dando origen al mundo helenístico.Fundó numerosas ciudades, como Alejandría en Egipto, que se convirtieron en importantes centros de comercio y conocimiento.Su figura es recordada como la de uno de los líderes más importantes de la Antigüedad.</string>
+    <string name="text_home">Bienvenido a esta aplicación, donde descubrirás varios datos históricos e interesantes sobre el gran conquistador Alejandro Magno</string>
+    <string name="text_gallery">Alejandro III de Macedonia, conocido como Alejandro Magno, fue hijo del rey Filipo II de Macedonia y de Olimpia de Epiro. La autoridad política de Filipo y la intensa formación religiosa y cultural que recibió de Olimpia marcaron su educación y ambición militar.</string>
+    <string name="text_conquista">Alejandro Magno fue uno de los mayores conquistadores de la historia.Con solo 20 años se convirtió en rey de Macedonia y comenzó una gran campaña militar.Conquistó el Imperio persa, tomó Egipto y llegó hasta la India.En muy pocos años creó un enorme imperio que unió territorios de Europa, Asia y África,extendiendo la cultura griega por todos ellos.</string>
+
+</resources>
