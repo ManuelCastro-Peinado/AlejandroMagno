@@ -65,3 +65,5 @@ Instalación
 
 3.Ejecutar en emulador o dispositivo Android compatible
 
+
+Autor Manuel Castro Peinado.
